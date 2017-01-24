@@ -1,3 +1,5 @@
+//Code JS qui sert de gestionnaire pour l'organisation du jeu du killers. http://www.jeux-2-soiree.com/jeux-soiree/anniversaire/le-killer/
+
 var tableauJoueur = [];
 var joueur = {
     
